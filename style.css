@@ -1,0 +1,41 @@
+body {
+    background-color: pink;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    color: #2c3e50;
+    margin-bottom: 15px;
+}
+
+h2 {
+    color:pink;
+    margin-top: 30px;
+}
+
+p {
+    color:blue;
+    font-size: 16px;
+    max-width: 400px;
+    margin: auto;
+}
+
+img {
+    margin-top: 20px;
+    width: 40%;
+    border-radius: 10px;
+}
+
+ol, ul {
+    display: inline-block;
+    text-align: left;
+    margin-top: 15px;
+    color:red;
+}
+
+li {
+    padding: 5px;
+}
